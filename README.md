@@ -1,2 +1,6 @@
 # DEU-YBS-VeriYapilari-Kodlama-Phyton
-Baslangic-DEU-YBS
+
+#İlk Konular 
+
+##String-VeriTipleri-Print()-FormatBiçimlendirme 
+
